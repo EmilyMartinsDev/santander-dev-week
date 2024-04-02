@@ -1,7 +1,8 @@
 #Santander Dev-week:
 ##Diagrama de Classes
 
-```classDiagram
+```mermaid
+classDiagram
   class User {
   - id: int
   - name: string
